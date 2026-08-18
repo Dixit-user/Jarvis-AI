@@ -1,5 +1,9 @@
-Jarvis - Personal Desktop Voice AssistantA Python-based virtual assistant designed to automate everyday desktop tasks using voice recognition and text-to-speech capabilities. This assistant can search the web, manage system power states, take notes, send emails, and control local media. 
-Time & Date: Accurately reports the current time and date.  Automated Greetings: Welcomes the user based on the current time of day (Morning, Afternoon, Evening).  Wikipedia Integration: Fetches and reads two-sentence summaries of requested Wikipedia topics.  
+#🤖Jarvis - Personal Desktop Voice AssistantA
+
+
+#🎯Jarvis - Personal Desktop Voice AssistantA Python-based virtual assistant designed to automate everyday desktop tasks using voice recognition and text-to-speech capabilities. This assistant can search the web, manage system power states, take notes, send emails, and control local media. 
+
+#Time & Date: Accurately reports the current time and date.  Automated Greetings: Welcomes the user based on the current time of day (Morning, Afternoon, Evening).  Wikipedia Integration: Fetches and reads two-sentence summaries of requested Wikipedia topics.  
 Email Automation: Sends emails via Gmail's SMTP server directly through voice commands.  Web Navigation: Opens specified websites using Google Chrome. 
 System Controls: Can log out, restart, or shut down the computer.  Media Playback: Plays music from a specified local directory.  Memory & Notes: Records quick notes to a data.txt file and reads them back when asked.  
 Screenshots: Captures the screen, names the file via voice command, and saves it locally using pyautogui.  PrerequisitesEnsure you have Python 3.x installed on your system. You will need to install the following required libraries using pip:Bashpip install pyttsx3 SpeechRecognition wikipedia pyautogui
